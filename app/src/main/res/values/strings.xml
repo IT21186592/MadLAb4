@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MAD111</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="email">Email</string>
+    <string name="bhhb">Password</string>
+    <string name="passsword">Password</string>
+    <string name="retypassword">RetyPassword</string>
+    <string name="retyPassword">RetyPassword</string>
+    <string name="retypePassword">RetypePassword</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
 </resources>
