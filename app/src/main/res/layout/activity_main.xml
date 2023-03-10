@@ -10,25 +10,37 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
-        android:layout_height="67dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
         android:text="@string/Name"
         android:textAlignment="center"
-        android:textSize="34sp" />
+        android:textSize="24sp" />
 
     <EditText
         android:id="@+id/editTextTextEmailAddress2"
         android:layout_width="match_parent"
-        android:layout_height="69dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
         android:ems="10"
         android:inputType="textEmailAddress"
         android:text="@string/email"
         android:textAlignment="center"
-        android:textSize="34sp" />
+        android:textSize="24sp" />
 
     <EditText
         android:id="@+id/editTextTextPassword"
         android:layout_width="match_parent"
-        android:layout_height="68dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
         android:ems="10"
         android:inputType="@string/password"
         android:text="@string/passsword"
@@ -38,7 +50,11 @@
     <EditText
         android:id="@+id/editTextTextPassword3"
         android:layout_width="match_parent"
-        android:layout_height="71dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
         android:ems="10"
         android:hint="@string/retypePassword"
         android:inputType="textPassword"
@@ -48,13 +64,21 @@
     <Button
         android:id="@+id/button"
         android:layout_width="match_parent"
-        android:layout_height="81dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
         android:text="@string/submit" />
 
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
-        android:layout_height="83dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
         android:text="@string/cancel" />
 
 </LinearLayout>
